@@ -14,10 +14,10 @@ Perguntas respondidas ao longo do projeto:
 O notebook está estruturado da seguinte forma:
 
 Importação das bibliotecas: 
-Carregamento e manipulação dos dados: familiarização, limpeza e filtragem dos dados utilizados.
-Visualização de dados geográficos com folium: a visualização geográfica pode ajudar a identificar padrões de preço de acordo com a localização além de ser uma potencial ferramenta para outros projetos.
-Análise exploratória de dados: exploração visando identificar outliers, padrões e insights para a seleção de variáveis da regressão linear.
-Predição de preços: ajuste dos dados para uso no modelo de ML, remoção de outliers, treinamento, teste e validação.
+<br />Carregamento e manipulação dos dados: familiarização, limpeza e filtragem dos dados utilizados;
+<br />Visualização de dados geográficos com folium: a visualização geográfica pode ajudar a identificar padrões de preço de acordo com a localização além de ser uma potencial ferramenta para outros projetos;
+<br />Análise exploratória de dados: exploração visando identificar outliers, padrões e insights para a seleção de variáveis da regressão linear;
+<br />Predição de preços: ajuste dos dados para uso no modelo de ML, remoção de outliers, treinamento, teste e validação.
 
 
 ## Pré-requisitos
@@ -36,9 +36,9 @@ Predição de preços: ajuste dos dados para uso no modelo de ML, remoção de o
 
 ## Execução
 -Clonar o Repositório do GitHub - Necessário ter o Git instalado em seu computador (se não tiver, você pode baixá-lo e instalá-lo a partir do site oficial do Git)
-1: Abra o terminal (no Linux ou macOS) ou o prompt de comando/PowerShell (no Windows)
-2: Navegue até o diretório onde deseja clonar o repositório
-3: Use o comando git clone seguido do URL do repositório:
+<br />1: Abra o terminal (no Linux ou macOS) ou o prompt de comando/PowerShell (no Windows)
+<br />2: Navegue até o diretório onde deseja clonar o repositório
+<br />3: Use o comando git clone seguido do URL do repositório:
 ````
 git clone https://github.com/dossantosester/LH_CD_ESTER_SANTOS.git
 ````
